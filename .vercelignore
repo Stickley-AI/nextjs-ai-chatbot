@@ -50,5 +50,5 @@ Thumbs.db
 # Misc
 .git
 .gitignore
-README.md
+DEPLOYMENT.md
 docs

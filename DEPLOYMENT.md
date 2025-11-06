@@ -82,7 +82,6 @@ The `vercel.json` file contains deployment configuration:
 - **headers**: Security headers applied to all routes
   - `X-Content-Type-Options`: Prevents MIME type sniffing
   - `X-Frame-Options`: Prevents clickjacking
-  - `X-XSS-Protection`: Enables browser XSS protection
   - `Referrer-Policy`: Controls referrer information
 
 ### .vercelignore
